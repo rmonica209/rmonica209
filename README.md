@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monica
-- 🌱 I’m currently learning SQL, Python, R, Tableau
+- 🌱 I know SQL, Python, Tableau, Excel
 - 📫 How to reach me: via LinkedIn https://www.linkedin.com/in/monica-rangel-1604ab96/
 
 <!---
